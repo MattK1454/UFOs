@@ -18,8 +18,7 @@ Using the filter inputs provided, the user can enter a desired vaule for a speci
 
 The user can apply multiple filters by applying an additional fiter to an already filtered table. This is done by entering a value in an additional filter field after one or more filters have already been applied to the table. In the example above, the table was intially filtered for the date of "1/1/2010". After the date filter was confirmed and the table filtered, a value for the "City" filter was entered and confirmed. This resulted in the table shown above.
 
-__Note: __
-__Each time the page is refreshed, the entire data set will be loaded and produce the complete unfiltered table.__
+__Note: Each time the page is refreshed, the entire data set will be loaded and produce the complete unfiltered table.__
 
 
 ## Summary
