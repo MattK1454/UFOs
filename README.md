@@ -14,7 +14,11 @@ The purpose of this project is to develop a site allowing a table built from dat
 
 ## Summary
 
-ABC
+Overall, the added filtering allows for the user to narrow down the list of sightings to specific criteria. One draw back is that the user would have to already know what they were looking for in order to achieve maximum benefit from the filter system.
+Two possible additions to the site might be:
+
+* Making it so the user can enter what they want in any way (uppercase, lowercase, mixed-case lettering) and still have the table filtered correctly.
+* Adding a comments filter option so the user could filter based on descriptions of an event, helping them further filter the table for their desired needs.
 
 ## References
 
