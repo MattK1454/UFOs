@@ -6,7 +6,11 @@ The purpose of this project is to develop a site allowing a table built from dat
 
 ## Results
 
-ABC
+![Unfiltered Table](https://github.com/MattK1454/UFOs/blob/main/static/images/Unfiltered%20Table.png)
+
+![Table with one filter](https://github.com/MattK1454/UFOs/blob/main/static/images/1%20filter%20table.png)
+
+![Table with two filters](https://github.com/MattK1454/UFOs/blob/main/static/images/2%20filter%20table.png)
 
 ## Summary
 
